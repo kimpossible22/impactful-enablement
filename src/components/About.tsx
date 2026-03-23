@@ -17,26 +17,25 @@ export const About = () => {
           </ScrollReveal>
           <ScrollReveal delay={200}>
             <h2 className="text-3xl md:text-4xl mb-6 text-balance">
-              From classroom to pipeline — designing experiences that drive results
+              I've spent my career engineering aha moments.
             </h2>
           </ScrollReveal>
           <ScrollReveal delay={300}>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                I started my career in instructional design, building learning experiences for
-                complex topics across industries. Over time, I discovered that the same principles
-                that make training stick — clarity, relevance, and practice — are exactly what
-                sales teams need to perform at their best.
+                Before I was an instructional designer or a sales enablement specialist, I was teaching English in Thailand, working in customer service, and figuring out how to help people understand things that weren't clicking for them yet. That thread runs through everything I've built since.
               </p>
               <p>
-                Today I work at the intersection of learning science and revenue enablement,
-                helping organizations onboard reps faster, deliver compelling messaging, and
-                build programs that scale. Whether it's a new hire bootcamp, a product launch
-                playbook, or a full enablement strategy, I bring a designer's eye and a
-                business-minded approach.
+                I came into instructional design and eventually into sales enablement through the same door: I care about the moment when something finally lands — when a customer sees what a product can do for them, or when a rep stops reciting a pitch and starts having a real conversation.
               </p>
               <p>
-                I'm currently open to consulting engagements and full-time opportunities.
+                What I've learned is that you can engineer that moment. With the right program architecture, the right practice environment, the right feedback loop — you don't have to hope people figure it out. You can build the conditions that make it inevitable.
+              </p>
+              <p>
+                That's what I do. Whether it's a new hire onboarding program, a customer education series, or an enablement strategy built from scratch — I design for the aha moment, and I measure whether it actually happened.
+              </p>
+              <p>
+                I'm currently open to sales enablement roles and consulting engagements.
               </p>
             </div>
           </ScrollReveal>
