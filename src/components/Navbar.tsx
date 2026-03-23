@@ -21,7 +21,7 @@ export const Navbar = () => {
     >
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <button onClick={() => scrollTo("hero")} className="font-serif text-lg tracking-tight">
-          Portfolio
+          Kim Mansukhani
         </button>
         <div className="hidden md:flex items-center gap-8 text-sm font-medium text-muted-foreground">
           <button onClick={() => scrollTo("about")} className="hover:text-foreground transition-colors">
