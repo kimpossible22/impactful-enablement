@@ -36,7 +36,7 @@ export const Work = () => {
         </ScrollReveal>
         <ScrollReveal delay={100}>
           <h2 className="text-3xl md:text-4xl mb-16 text-balance max-w-xl">
-            Projects that moved the needle
+            Work that moved the needle — and the numbers to prove it.
           </h2>
         </ScrollReveal>
 
