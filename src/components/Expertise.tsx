@@ -29,8 +29,8 @@ const areas = [
   },
   {
     icon: Layers,
-    title: "Tech & Tooling",
-    desc: "LMS administration, CMS setup, and tool evaluation to support scalable content delivery.",
+    title: "Gap Identification & Program Design",
+    desc: "I find the performance gaps that nobody has named yet — and build the programs to close them. From diagnosis to launch, I own the full build.",
   },
 ];
 
