@@ -1,4 +1,5 @@
 import { ScrollReveal } from "@/components/ScrollReveal";
+import kimPhoto from "@/assets/kim-photo.jpg";
 
 export const About = () => {
   return (
@@ -6,9 +7,7 @@ export const About = () => {
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 items-center">
         <ScrollReveal>
           <div className="aspect-[4/5] bg-secondary rounded-lg overflow-hidden relative">
-            <div className="absolute inset-0 flex items-center justify-center text-muted-foreground text-sm">
-              Your photo here
-            </div>
+            <img src={kimPhoto} alt="Kim Mansukhani" className="w-full h-full object-cover" />
           </div>
         </ScrollReveal>
         <div>
