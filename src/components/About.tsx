@@ -33,9 +33,6 @@ export const About = () => {
               <p>
                 That's what I do. Whether it's a new hire onboarding program, a customer education series, or an enablement strategy built from scratch — I design for the aha moment, and I measure whether it actually happened.
               </p>
-              <p>
-                I'm currently open to sales enablement roles and consulting engagements.
-              </p>
             </div>
           </ScrollReveal>
         </div>
